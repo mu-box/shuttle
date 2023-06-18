@@ -1,5 +1,5 @@
-[![shuttle logo](http://nano-assets.gopagoda.io/readme-headers/shuttle.png)](http://nanobox.io/open-source#shuttle)
-[![Build Status](https://travis-ci.org/nanopack/shuttle.svg)](https://travis-ci.org/nanopack/shuttle)
+[![shuttle logo](http://microbox.rocks/assets/readme-headers/shuttle.png)](http://microbox.cloud/open-source#shuttle)
+[![Build Status](https://github.com/mu-box/shuttle/actions/workflows/ci.yaml/badge.svg)](https://github.com/mu-box/shuttle/actions)
 
 # shuttle
 
@@ -17,4 +17,4 @@ Not started
 
 ### Notes
 
-[![shuttle logo](http://nano-assets.gopagoda.io/open-src/nanobox-open-src.png)](http://nanobox.io/open-source)
+[![shuttle logo](http://microbox.rocks/assets/open-src/microbox-open-src.png)](http://microbox.cloud/open-source)
